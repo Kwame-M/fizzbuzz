@@ -1,4 +1,6 @@
-# fizzbuzz
+ # fizzbuzz
 PreCourse 
 
-Completed with Me, myself and I
+Completed by Me, Myself and I.
+
+Or was it?!?!?!! By the ghost of christmas past?!?!
